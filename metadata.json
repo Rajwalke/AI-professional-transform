@@ -1,0 +1,7 @@
+{
+  "name": "AI Medical Professional Transformation",
+  "description": "An entertainment app for pharmaceutical company employees and customers. Upload a photo and use AI to transform it into a doctor or nurse, complete with medical attire, tools, and a professional background.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
